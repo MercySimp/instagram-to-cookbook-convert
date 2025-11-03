@@ -1,0 +1,2 @@
+# instragram-to-cookbook-convert
+My girlfriend loves to make recipes from instagram but constantly loses them in her saves so I wrote this program that takes the url from the reel or post and turns it into  a basic cookbook. This is not as it goes wrong multiples times example being when a reel doesnt have a recipe at all in the description, or decription is insanely long causing overflow to a new page.
